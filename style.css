@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-image: url(burger-french-fries);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.lists{
+    padding: 1rem 0rem 0rem 5rem;
+    color: black;
+}
+
+.lists div h2{
+    text-decoration: underline;
+}
+
+.lists ul{
+    padding: 0rem 0 0 1rem;
+    margin: 10px 0 10px -35px;
+}
+
+.lists div{
+    padding: 0rem 2rem 0 0;
+    margin: 10px 0 0 10px;
+}
+
+.lists button{
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 110px;
+    color: rgb(241, 95, 95)
+}
+
+.lists button a{
+    text-decoration: none;
+    color: white;
+}
